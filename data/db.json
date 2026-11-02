@@ -1,0 +1,1189 @@
+{
+  "leads": [
+    {
+      "id": "LEAD-8014",
+      "createdAt": "2026-11-01T14:08:54.535Z",
+      "company": "Noida Software Hub",
+      "contactName": "Noida Lead",
+      "email": "noida@hub.in",
+      "phone": "9811234567",
+      "city": "Noida, Uttar Pradesh",
+      "regionStatus": "Outside Service Area",
+      "regionNote": "Sorry, our service is currently available only in Karnataka.",
+      "companySize": "50-200 employees",
+      "annualBudget": 90000,
+      "industry": "Technology",
+      "useCase": "",
+      "timeline": "1-3 months",
+      "notes": "",
+      "score": 77,
+      "tier": "Disqualified",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "High annual budget ($90,000) qualifies for enterprise dedicated support."
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Verified corporate domain with high probability of operational decision rights."
+        },
+        "need": {
+          "score": 15,
+          "max": 25,
+          "rationale": "Baseline evaluation interest with general automation requirements."
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term quarterly procurement plan with defined timeline."
+        }
+      },
+      "icpFitSummary": "Gold priority lead from Technology sector with $90,000 budget and 1-3 months implementation goal.",
+      "recommendedRouting": "Self-Serve Nurture",
+      "assignedRep": "Unassigned (Outside Service Area)",
+      "routingReason": "Service unavailable: Sorry, our service is currently available only in Karnataka.",
+      "salesBriefing": "Focus on Technology-tailored workflow templates, SLA standards, and rapid integration with their existing CRM stack.",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "status": "Disqualified",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8013",
+      "createdAt": "2026-11-01T14:08:53.837Z",
+      "company": "Tumakuru Machine Tools",
+      "contactName": "Tool Lead",
+      "email": "tools@tumakuru.in",
+      "phone": "9731298110",
+      "city": "Tumakuru, Karnataka",
+      "regionStatus": "Serviceable",
+      "regionNote": "Location 'Tumakuru, Karnataka' is within supported service area (Karnataka).",
+      "companySize": "50-200 employees",
+      "annualBudget": 65000,
+      "industry": "Technology",
+      "useCase": "",
+      "timeline": "1-3 months",
+      "notes": "",
+      "score": 77,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "High annual budget ($65,000) qualifies for enterprise dedicated support."
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Verified corporate domain with high probability of operational decision rights."
+        },
+        "need": {
+          "score": 15,
+          "max": 25,
+          "rationale": "Baseline evaluation interest with general automation requirements."
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term quarterly procurement plan with defined timeline."
+        }
+      },
+      "icpFitSummary": "Gold priority lead from Technology sector with $65,000 budget and 1-3 months implementation goal.",
+      "recommendedRouting": "Mid-Market AE",
+      "assignedRep": "Pending Approval",
+      "routingReason": "High-potential Mid-Market lead (77/100) routed to dedicated account executive.",
+      "salesBriefing": "Focus on Technology-tailored workflow templates, SLA standards, and rapid integration with their existing CRM stack.",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "status": "In Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8012",
+      "createdAt": "2026-11-01T14:08:53.152Z",
+      "company": "Mangaluru Maritime Port",
+      "contactName": "Port Lead",
+      "email": "port@mangaluru.in",
+      "phone": "9844019283",
+      "city": "Mangaluru, Karnataka",
+      "regionStatus": "Serviceable",
+      "regionNote": "Location 'Mangaluru, Karnataka' is within supported service area (Karnataka).",
+      "companySize": "50-200 employees",
+      "annualBudget": 55000,
+      "industry": "Technology",
+      "useCase": "",
+      "timeline": "1-3 months",
+      "notes": "",
+      "score": 77,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "High annual budget ($55,000) qualifies for enterprise dedicated support."
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Verified corporate domain with high probability of operational decision rights."
+        },
+        "need": {
+          "score": 15,
+          "max": 25,
+          "rationale": "Baseline evaluation interest with general automation requirements."
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term quarterly procurement plan with defined timeline."
+        }
+      },
+      "icpFitSummary": "Gold priority lead from Technology sector with $55,000 budget and 1-3 months implementation goal.",
+      "recommendedRouting": "Mid-Market AE",
+      "assignedRep": "Pending Approval",
+      "routingReason": "High-potential Mid-Market lead (77/100) routed to dedicated account executive.",
+      "salesBriefing": "Focus on Technology-tailored workflow templates, SLA standards, and rapid integration with their existing CRM stack.",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "status": "In Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8011",
+      "createdAt": "2026-11-01T14:08:52.450Z",
+      "company": "Bengaluru Micro Devices",
+      "contactName": "Micro Lead",
+      "email": "micro@bengaluru.in",
+      "phone": "9845012345",
+      "city": "Bengaluru, Karnataka",
+      "regionStatus": "Serviceable",
+      "regionNote": "Location 'Bengaluru, Karnataka' is within supported service area (Karnataka).",
+      "companySize": "50-200 employees",
+      "annualBudget": 60000,
+      "industry": "Technology",
+      "useCase": "",
+      "timeline": "1-3 months",
+      "notes": "",
+      "score": 77,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "High annual budget ($60,000) qualifies for enterprise dedicated support."
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Verified corporate domain with high probability of operational decision rights."
+        },
+        "need": {
+          "score": 15,
+          "max": 25,
+          "rationale": "Baseline evaluation interest with general automation requirements."
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term quarterly procurement plan with defined timeline."
+        }
+      },
+      "icpFitSummary": "Gold priority lead from Technology sector with $60,000 budget and 1-3 months implementation goal.",
+      "recommendedRouting": "Mid-Market AE",
+      "assignedRep": "Pending Approval",
+      "routingReason": "High-potential Mid-Market lead (77/100) routed to dedicated account executive.",
+      "salesBriefing": "Focus on Technology-tailored workflow templates, SLA standards, and rapid integration with their existing CRM stack.",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "status": "In Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8010",
+      "createdAt": "2026-11-01T14:08:51.627Z",
+      "company": "Mysuru Aero Dynamics",
+      "contactName": "Aero Lead",
+      "email": "aero@mysuru.in",
+      "phone": "9876543210",
+      "city": "Mysuru, Karnataka",
+      "regionStatus": "Serviceable",
+      "regionNote": "Location 'Mysuru, Karnataka' is within supported service area (Karnataka).",
+      "companySize": "50-200 employees",
+      "annualBudget": 75000,
+      "industry": "Technology",
+      "useCase": "",
+      "timeline": "1-3 months",
+      "notes": "",
+      "score": 77,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "High annual budget ($75,000) qualifies for enterprise dedicated support."
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Verified corporate domain with high probability of operational decision rights."
+        },
+        "need": {
+          "score": 15,
+          "max": 25,
+          "rationale": "Baseline evaluation interest with general automation requirements."
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term quarterly procurement plan with defined timeline."
+        }
+      },
+      "icpFitSummary": "Gold priority lead from Technology sector with $75,000 budget and 1-3 months implementation goal.",
+      "recommendedRouting": "Mid-Market AE",
+      "assignedRep": "Pending Approval",
+      "routingReason": "High-potential Mid-Market lead (77/100) routed to dedicated account executive.",
+      "salesBriefing": "Focus on Technology-tailored workflow templates, SLA standards, and rapid integration with their existing CRM stack.",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "status": "In Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8041",
+      "createdAt": "2026-10-25T10:00:00.000Z",
+      "company": "Apex Cloud Networks",
+      "contactName": "Victoria Sterling",
+      "email": "v.sterling@apexcloud.io",
+      "phone": "9876543210",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "1000-5000 employees",
+      "annualBudget": 120000,
+      "industry": "Enterprise SaaS",
+      "useCase": "Multi-cloud automated traffic routing and security lead qualification",
+      "timeline": "Immediate (< 30 days)",
+      "notes": "Approved high-priority rollout.",
+      "score": 95,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 25,
+          "max": 25,
+          "rationale": "Confirmed annual budget $120k+ exceeds enterprise target threshold"
+        },
+        "authority": {
+          "score": 24,
+          "max": 25,
+          "rationale": "VP of Infrastructure & Networking with signing authority"
+        },
+        "need": {
+          "score": 23,
+          "max": 25,
+          "rationale": "Critical outage prevention and compliance pain point"
+        },
+        "timeline": {
+          "score": 23,
+          "max": 25,
+          "rationale": "Immediate procurement timeline within 30-day window"
+        }
+      },
+      "icpFitSummary": "Exceptional enterprise fit. High-velocity expansion candidate with tier-1 budget profile and verified decision maker.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Marcus Vance",
+      "routingReason": "Enterprise ARR potential > $100k requires Strategic Accounts AE pairing.",
+      "salesBriefing": "Focus on SLA guarantees, SOC2 Type II certifications, and multi-region failover.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "approvedAt": "2026-10-27T10:00:00.000Z",
+      "expectedDeliveryDate": "2026-11-19",
+      "deliveryStatus": "In Progress",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8042",
+      "createdAt": "2026-10-22T10:00:00.000Z",
+      "company": "Nordic Health Systems",
+      "contactName": "Henrik Lindqvist",
+      "email": "h.lindqvist@nordichealth.se",
+      "phone": "9845012345",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "500-1000 employees",
+      "annualBudget": 65000,
+      "industry": "Healthcare",
+      "useCase": "HIPAA & GDPR-compliant patient data intake and routing automation",
+      "timeline": "1-3 months",
+      "notes": "European healthcare provider seeking private cloud isolation and dedicated audit trails.",
+      "score": 88,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "$65k allocated in FY26 budget for automated triage"
+        },
+        "authority": {
+          "score": 23,
+          "max": 25,
+          "rationale": "Chief Medical Information Officer and IT Director"
+        },
+        "need": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Strict EU compliance and patient queue bottleneck"
+        },
+        "timeline": {
+          "score": 21,
+          "max": 25,
+          "rationale": "Procurement targeted for Q1 kickoff"
+        }
+      },
+      "icpFitSummary": "Strong healthcare vertical fit. High-value compliance requirements and strong budget approval.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Elena Rostova",
+      "routingReason": "Healthcare enterprise requiring specialized security review and EEA data residency.",
+      "salesBriefing": "Prepare BAA and EU standard contractual clauses. Highlight zero-data-retention AI inference.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "approvedAt": "2026-10-26T10:00:00.000Z",
+      "expectedDeliveryDate": "2026-12-14",
+      "deliveryStatus": "On Track",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8043",
+      "createdAt": "2026-10-18T10:00:00.000Z",
+      "company": "Veloce Logistics Worldwide",
+      "contactName": "Carlos Montoya",
+      "email": "carlos.m@velocelogistics.com",
+      "phone": "9731298110",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "200-500 employees",
+      "annualBudget": 38000,
+      "industry": "Logistics",
+      "useCase": "Automated freight quote qualification and carrier routing dispatch",
+      "timeline": "1-3 months",
+      "notes": "Currently using manual email triage. 40% of inbound quotes expire before response.",
+      "score": 79,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 18,
+          "max": 25,
+          "rationale": "$38k budget fits standard Mid-Market subscription"
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Director of Logistics Operations"
+        },
+        "need": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Direct revenue leakage from delayed quote responses"
+        },
+        "timeline": {
+          "score": 19,
+          "max": 25,
+          "rationale": "Targeting next quarter implementation"
+        }
+      },
+      "icpFitSummary": "Ideal Mid-Market profile with quantified operational pain. Fast sales cycle potential.",
+      "recommendedRouting": "Mid-Market AE",
+      "assignedRep": "David Chen",
+      "routingReason": "Mid-Market deal size with operational workflow automation focus.",
+      "salesBriefing": "Demonstrate sub-second webhook routing and email parser accuracy.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "approvedAt": "2026-10-28T10:00:00.000Z",
+      "expectedDeliveryDate": "2027-01-13",
+      "deliveryStatus": "On Track",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8044",
+      "createdAt": "2026-09-25T10:00:00.000Z",
+      "company": "Zenith Retail Commerce",
+      "contactName": "Chloe Dupont",
+      "email": "chloe@zenithretail.fr",
+      "phone": "9844019283",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "50-200 employees",
+      "annualBudget": 55000,
+      "industry": "E-Commerce",
+      "useCase": "Omnichannel B2B wholesale enquiry scoring",
+      "timeline": "Immediate (< 30 days)",
+      "notes": "Overdue milestone needs manager expedite.",
+      "score": 86,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Enterprise budget"
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Head of Operations"
+        },
+        "need": {
+          "score": 22,
+          "max": 25,
+          "rationale": "E-commerce automation"
+        },
+        "timeline": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Immediate"
+        }
+      },
+      "icpFitSummary": "High value omnichannel distributor.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Elena Rostova",
+      "routingReason": "Fast-track enterprise commerce.",
+      "salesBriefing": "Expedite technical onboarding.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "approvedAt": "2026-10-05T10:00:00.000Z",
+      "expectedDeliveryDate": "2026-10-15",
+      "deliveryStatus": "Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-8045",
+      "createdAt": "2026-10-28T10:00:00.000Z",
+      "company": "Kavita Digital Solutions",
+      "contactName": "Kavita Rao",
+      "email": "kavita@kavitadigital.in",
+      "phone": "9900112233",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "50-200 employees",
+      "annualBudget": 60000,
+      "industry": "Enterprise SaaS",
+      "useCase": "Internal workflow orchestration",
+      "timeline": "1-3 months",
+      "notes": "Delivery date to be determined after architecture review.",
+      "score": 87,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Confirmed budget"
+        },
+        "authority": {
+          "score": 21,
+          "max": 25,
+          "rationale": "CTO"
+        },
+        "need": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Orchestration need"
+        },
+        "timeline": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Q1"
+        }
+      },
+      "icpFitSummary": "Strategic accounts prospect.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Marcus Vance",
+      "routingReason": "Enterprise deal.",
+      "salesBriefing": "Schedule delivery scoping.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "approvedAt": "2026-10-29T22:00:00.000Z",
+      "deliveryStatus": "Pending Kickoff",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-FIFO-A",
+      "createdAt": "2026-10-30T09:00:00.000Z",
+      "company": "Project Alpha Tech",
+      "contactName": "Anil Kumar",
+      "email": "anil@alphatech.in",
+      "phone": "9845098450",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "200-500 employees",
+      "annualBudget": 75000,
+      "industry": "Enterprise SaaS",
+      "useCase": "Workflow routing",
+      "timeline": "1-3 months",
+      "score": 82,
+      "tier": "Gold",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "$75k budget"
+        },
+        "authority": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Director"
+        },
+        "need": {
+          "score": 20,
+          "max": 25,
+          "rationale": "High priority"
+        },
+        "timeline": {
+          "score": 20,
+          "max": 25,
+          "rationale": "Near-term"
+        }
+      },
+      "icpFitSummary": "Eligible pending project A.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Unassigned",
+      "routingReason": "FIFO Approval Queue Item",
+      "salesBriefing": "FIFO Queue position test.",
+      "requiresApproval": true,
+      "approvalStatus": "rejected",
+      "status": "Disqualified",
+      "correctionCount": 0,
+      "approvalNotes": "Deal budget does not meet our minimum enterprise threshold for custom deployment."
+    },
+    {
+      "id": "LEAD-FIFO-B",
+      "createdAt": "2026-10-30T09:15:00.000Z",
+      "company": "Project Beta Systems",
+      "contactName": "Bhavna Sharma",
+      "email": "bhavna@betasystems.in",
+      "phone": "9876598765",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "1000-5000 employees",
+      "annualBudget": 110000,
+      "industry": "Financial Services",
+      "useCase": "Core banking lead routing",
+      "timeline": "Immediate (< 30 days)",
+      "score": 94,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 25,
+          "max": 25,
+          "rationale": "$110k budget"
+        },
+        "authority": {
+          "score": 23,
+          "max": 25,
+          "rationale": "VP Tech"
+        },
+        "need": {
+          "score": 23,
+          "max": 25,
+          "rationale": "Mission-critical"
+        },
+        "timeline": {
+          "score": 23,
+          "max": 25,
+          "rationale": "Immediate"
+        }
+      },
+      "icpFitSummary": "Eligible pending project B.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Marcus Vance",
+      "routingReason": "FIFO Approval Queue Item",
+      "salesBriefing": "FIFO Queue position test.",
+      "requiresApproval": true,
+      "approvalStatus": "approved",
+      "status": "Assigned",
+      "correctionCount": 0,
+      "approvalNotes": "Requirements verified and the project meets all eligibility criteria.",
+      "approvedAt": "2026-11-01T14:08:55.158Z",
+      "deliveryStatus": "Pending Kickoff"
+    },
+    {
+      "id": "LEAD-FIFO-C",
+      "createdAt": "2026-10-30T09:30:00.000Z",
+      "company": "Project Gamma Global",
+      "contactName": "Chetan Desai",
+      "email": "chetan@gammaglobal.in",
+      "phone": "9123491234",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "companySize": "500-1000 employees",
+      "annualBudget": 85000,
+      "industry": "Healthcare",
+      "useCase": "Patient intake automation",
+      "timeline": "1-3 months",
+      "score": 88,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "$85k budget"
+        },
+        "authority": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Chief Medical Officer"
+        },
+        "need": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Compliance"
+        },
+        "timeline": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Near-term"
+        }
+      },
+      "icpFitSummary": "Eligible pending project C.",
+      "recommendedRouting": "Strategic Accounts",
+      "assignedRep": "Pending Approval",
+      "routingReason": "FIFO Approval Queue Item",
+      "salesBriefing": "FIFO Queue position test.",
+      "requiresApproval": true,
+      "approvalStatus": "pending",
+      "status": "In Review",
+      "correctionCount": 0
+    },
+    {
+      "id": "LEAD-OUTSIDE-01",
+      "createdAt": "2026-10-30T08:00:00.000Z",
+      "company": "Bengaluru Tech Labs",
+      "contactName": "Ramesh Gowda",
+      "email": "ramesh@bengalurulabs.io",
+      "phone": "9888877777",
+      "city": "Bengaluru",
+      "regionStatus": "Outside Service Area",
+      "regionNote": "Company does not currently serve this location. Supported cities: Mysuru",
+      "companySize": "50-200 employees",
+      "annualBudget": 80000,
+      "industry": "Technology",
+      "useCase": "Regional lead intake",
+      "timeline": "1-3 months",
+      "score": 85,
+      "tier": "Platinum",
+      "bantBreakdown": {
+        "budget": {
+          "score": 22,
+          "max": 25,
+          "rationale": "Good budget"
+        },
+        "authority": {
+          "score": 21,
+          "max": 25,
+          "rationale": "Head of IT"
+        },
+        "need": {
+          "score": 21,
+          "max": 25,
+          "rationale": "Standard need"
+        },
+        "timeline": {
+          "score": 21,
+          "max": 25,
+          "rationale": "Standard"
+        }
+      },
+      "icpFitSummary": "Outside service area prospect.",
+      "recommendedRouting": "Self-Serve Nurture",
+      "assignedRep": "Unassigned (Outside Service Area)",
+      "routingReason": "Location Bengaluru is not currently in supported service regions (Mysuru).",
+      "salesBriefing": "Lead recorded for future geographic expansion.",
+      "requiresApproval": false,
+      "approvalStatus": "none",
+      "status": "Disqualified",
+      "correctionCount": 0
+    }
+  ],
+  "approvals": [
+    {
+      "id": "APP-FIFO-01",
+      "leadId": "LEAD-FIFO-A",
+      "leadCompany": "Project Alpha Tech",
+      "leadContact": "Anil Kumar",
+      "leadEmail": "anil@alphatech.in",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "budget": 75000,
+      "aiScore": 82,
+      "tier": "Gold",
+      "triggerReason": "Deal value $75k exceeds $50k threshold.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-10-30T09:00:00.000Z",
+      "submissionTimestamp": "2026-10-30T09:00:00.000Z",
+      "status": "rejected",
+      "suggestedRep": "David Chen (Mid-Market AE)",
+      "correctionCount": 0,
+      "reviewedBy": "Sarah Connor (Sales VP)",
+      "reviewedAt": "2026-11-01T14:08:55.148Z",
+      "decisionNotes": "Deal budget does not meet our minimum enterprise threshold for custom deployment."
+    },
+    {
+      "id": "APP-FIFO-02",
+      "leadId": "LEAD-FIFO-B",
+      "leadCompany": "Project Beta Systems",
+      "leadContact": "Bhavna Sharma",
+      "leadEmail": "bhavna@betasystems.in",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "budget": 110000,
+      "aiScore": 94,
+      "tier": "Platinum",
+      "triggerReason": "Deal value $110k exceeds $50k threshold.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-10-30T09:15:00.000Z",
+      "submissionTimestamp": "2026-10-30T09:15:00.000Z",
+      "status": "approved",
+      "suggestedRep": "Marcus Vance (Strategic Accounts AE)",
+      "correctionCount": 0,
+      "reviewedBy": "Sarah Connor (Sales VP)",
+      "reviewedAt": "2026-11-01T14:08:55.158Z",
+      "decisionNotes": "Requirements verified and the project meets all eligibility criteria."
+    },
+    {
+      "id": "APP-FIFO-03",
+      "leadId": "LEAD-FIFO-C",
+      "leadCompany": "Project Gamma Global",
+      "leadContact": "Chetan Desai",
+      "leadEmail": "chetan@gammaglobal.in",
+      "city": "Mysuru",
+      "regionStatus": "Serviceable",
+      "budget": 85000,
+      "aiScore": 88,
+      "tier": "Platinum",
+      "triggerReason": "Deal value $85k exceeds $50k threshold.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-10-30T09:30:00.000Z",
+      "submissionTimestamp": "2026-10-30T09:30:00.000Z",
+      "status": "pending",
+      "suggestedRep": "Elena Rostova (Healthcare Enterprise AE)",
+      "correctionCount": 0
+    },
+    {
+      "id": "APP-104",
+      "leadId": "LEAD-8010",
+      "leadCompany": "Mysuru Aero Dynamics",
+      "leadContact": "Aero Lead",
+      "leadEmail": "aero@mysuru.in",
+      "city": "Mysuru, Karnataka",
+      "regionStatus": "Serviceable",
+      "budget": 75000,
+      "aiScore": 77,
+      "tier": "Gold",
+      "triggerReason": "Budget $75,000 >= $50,000 threshold requires executive manager sign-off.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-11-01T14:08:51.627Z",
+      "submissionTimestamp": "2026-11-01T14:08:51.627Z",
+      "status": "pending",
+      "suggestedRep": "Mid-Market AE Lead AE",
+      "correctionCount": 0
+    },
+    {
+      "id": "APP-105",
+      "leadId": "LEAD-8011",
+      "leadCompany": "Bengaluru Micro Devices",
+      "leadContact": "Micro Lead",
+      "leadEmail": "micro@bengaluru.in",
+      "city": "Bengaluru, Karnataka",
+      "regionStatus": "Serviceable",
+      "budget": 60000,
+      "aiScore": 77,
+      "tier": "Gold",
+      "triggerReason": "Budget $60,000 >= $50,000 threshold requires executive manager sign-off.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-11-01T14:08:52.450Z",
+      "submissionTimestamp": "2026-11-01T14:08:52.450Z",
+      "status": "pending",
+      "suggestedRep": "Mid-Market AE Lead AE",
+      "correctionCount": 0
+    },
+    {
+      "id": "APP-106",
+      "leadId": "LEAD-8012",
+      "leadCompany": "Mangaluru Maritime Port",
+      "leadContact": "Port Lead",
+      "leadEmail": "port@mangaluru.in",
+      "city": "Mangaluru, Karnataka",
+      "regionStatus": "Serviceable",
+      "budget": 55000,
+      "aiScore": 77,
+      "tier": "Gold",
+      "triggerReason": "Budget $55,000 >= $50,000 threshold requires executive manager sign-off.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-11-01T14:08:53.152Z",
+      "submissionTimestamp": "2026-11-01T14:08:53.152Z",
+      "status": "pending",
+      "suggestedRep": "Mid-Market AE Lead AE",
+      "correctionCount": 0
+    },
+    {
+      "id": "APP-107",
+      "leadId": "LEAD-8013",
+      "leadCompany": "Tumakuru Machine Tools",
+      "leadContact": "Tool Lead",
+      "leadEmail": "tools@tumakuru.in",
+      "city": "Tumakuru, Karnataka",
+      "regionStatus": "Serviceable",
+      "budget": 65000,
+      "aiScore": 77,
+      "tier": "Gold",
+      "triggerReason": "Budget $65,000 >= $50,000 threshold requires executive manager sign-off.",
+      "ruleMatched": "RULE-ENT-01: Contract Value >= $50,000",
+      "requestedAt": "2026-11-01T14:08:53.837Z",
+      "submissionTimestamp": "2026-11-01T14:08:53.837Z",
+      "status": "pending",
+      "suggestedRep": "Mid-Market AE Lead AE",
+      "correctionCount": 0
+    }
+  ],
+  "logs": [
+    {
+      "id": "LOG-59904",
+      "timestamp": "2026-11-01T14:09:19.904Z",
+      "action": "TEST_SUITE_RUN",
+      "level": "SUCCESS",
+      "message": "Automated test suite TRUN-159904 completed: 7/7 scenarios passed (605ms).",
+      "metadata": {
+        "passed": 7,
+        "total": 7,
+        "durationMs": 605
+      }
+    },
+    {
+      "id": "LOG-48709",
+      "timestamp": "2026-11-01T14:09:08.709Z",
+      "action": "TEST_SUITE_RUN",
+      "level": "SUCCESS",
+      "message": "Automated test suite TRUN-148709 completed: 7/7 scenarios passed (675ms).",
+      "metadata": {
+        "passed": 7,
+        "total": 7,
+        "durationMs": 675
+      }
+    },
+    {
+      "id": "LOG-35810",
+      "timestamp": "2026-11-01T14:08:55.810Z",
+      "action": "TEST_SUITE_RUN",
+      "level": "SUCCESS",
+      "message": "Automated test suite TRUN-135810 completed: 7/7 scenarios passed (646ms).",
+      "metadata": {
+        "passed": 7,
+        "total": 7,
+        "durationMs": 646
+      }
+    },
+    {
+      "id": "LOG-35160N",
+      "timestamp": "2026-11-01T14:08:55.160Z",
+      "leadId": "LEAD-FIFO-B",
+      "action": "CUSTOMER_NOTIFICATION_DISPATCHED",
+      "level": "INFO",
+      "message": "Customer approval notifications recorded for Bhavna Sharma (Project Beta Systems): Email (Sent), SMS (Sent). Reason: \"Requirements verified and the project meets all eligibility criteria.\"",
+      "metadata": {
+        "emailStatus": "Sent",
+        "smsStatus": "Sent",
+        "decisionNotes": "Requirements verified and the project meets all eligibility criteria."
+      }
+    },
+    {
+      "id": "LOG-35149N",
+      "timestamp": "2026-11-01T14:08:55.149Z",
+      "leadId": "LEAD-FIFO-A",
+      "action": "CUSTOMER_NOTIFICATION_DISPATCHED",
+      "level": "INFO",
+      "message": "Customer rejection notifications recorded for Anil Kumar (Project Alpha Tech): Email (Sent), SMS (Sent). Reason: \"Deal budget does not meet our minimum enterprise threshold for custom deployment.\"",
+      "metadata": {
+        "emailStatus": "Sent",
+        "smsStatus": "Sent",
+        "decisionNotes": "Deal budget does not meet our minimum enterprise threshold for custom deployment."
+      }
+    },
+    {
+      "id": "LOG-35148",
+      "timestamp": "2026-11-01T14:08:55.148Z",
+      "leadId": "LEAD-FIFO-A",
+      "action": "MANAGER_REJECTED",
+      "level": "WARNING",
+      "message": "Manager Sarah Connor (Sales VP) REJECTED lead Project Alpha Tech. Reason: Deal budget does not meet our minimum enterprise threshold for custom deployment.",
+      "metadata": {
+        "approvalId": "APP-FIFO-01",
+        "reviewer": "Sarah Connor (Sales VP)",
+        "reason": "Deal budget does not meet our minimum enterprise threshold for custom deployment."
+      }
+    },
+    {
+      "id": "LOG-35134",
+      "timestamp": "2026-11-01T14:08:55.134Z",
+      "action": "RULE_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Configured new supported service region: Maharashtra.",
+      "metadata": {
+        "addedRegion": "Maharashtra",
+        "allSupported": [
+          "Karnataka",
+          "Maharashtra"
+        ]
+      }
+    },
+    {
+      "id": "LOG-35126R",
+      "timestamp": "2026-11-01T14:08:55.126Z",
+      "leadId": "LEAD-8014",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "WARNING",
+      "message": "Region check evaluated for 'Noida, Uttar Pradesh': Outside Service Area. Sorry, our service is currently available only in Karnataka.",
+      "metadata": {
+        "city": "Noida, Uttar Pradesh",
+        "regionStatus": "Outside Service Area",
+        "supportedRegions": [
+          "Karnataka"
+        ]
+      }
+    },
+    {
+      "id": "LOG-345293",
+      "timestamp": "2026-11-01T14:08:54.529Z",
+      "leadId": "LEAD-8013",
+      "action": "APPROVAL_TRIGGERED",
+      "level": "WARNING",
+      "message": "Human Manager Approval gate triggered for Tumakuru Machine Tools (Approval ID: APP-107). Enqueued in FIFO position.",
+      "metadata": {
+        "approvalId": "APP-107",
+        "rule": "RULE-ENT-01"
+      }
+    },
+    {
+      "id": "LOG-34529R",
+      "timestamp": "2026-11-01T14:08:54.529Z",
+      "leadId": "LEAD-8013",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Region check evaluated for 'Tumakuru, Karnataka': Serviceable. Location 'Tumakuru, Karnataka' is within supported service area (Karnataka).",
+      "metadata": {
+        "city": "Tumakuru, Karnataka",
+        "regionStatus": "Serviceable",
+        "supportedRegions": [
+          "Karnataka"
+        ]
+      }
+    },
+    {
+      "id": "LOG-338333",
+      "timestamp": "2026-11-01T14:08:53.833Z",
+      "leadId": "LEAD-8012",
+      "action": "APPROVAL_TRIGGERED",
+      "level": "WARNING",
+      "message": "Human Manager Approval gate triggered for Mangaluru Maritime Port (Approval ID: APP-106). Enqueued in FIFO position.",
+      "metadata": {
+        "approvalId": "APP-106",
+        "rule": "RULE-ENT-01"
+      }
+    },
+    {
+      "id": "LOG-33833R",
+      "timestamp": "2026-11-01T14:08:53.833Z",
+      "leadId": "LEAD-8012",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Region check evaluated for 'Mangaluru, Karnataka': Serviceable. Location 'Mangaluru, Karnataka' is within supported service area (Karnataka).",
+      "metadata": {
+        "city": "Mangaluru, Karnataka",
+        "regionStatus": "Serviceable",
+        "supportedRegions": [
+          "Karnataka"
+        ]
+      }
+    },
+    {
+      "id": "LOG-331463",
+      "timestamp": "2026-11-01T14:08:53.146Z",
+      "leadId": "LEAD-8011",
+      "action": "APPROVAL_TRIGGERED",
+      "level": "WARNING",
+      "message": "Human Manager Approval gate triggered for Bengaluru Micro Devices (Approval ID: APP-105). Enqueued in FIFO position.",
+      "metadata": {
+        "approvalId": "APP-105",
+        "rule": "RULE-ENT-01"
+      }
+    },
+    {
+      "id": "LOG-33146R",
+      "timestamp": "2026-11-01T14:08:53.146Z",
+      "leadId": "LEAD-8011",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Region check evaluated for 'Bengaluru, Karnataka': Serviceable. Location 'Bengaluru, Karnataka' is within supported service area (Karnataka).",
+      "metadata": {
+        "city": "Bengaluru, Karnataka",
+        "regionStatus": "Serviceable",
+        "supportedRegions": [
+          "Karnataka"
+        ]
+      }
+    },
+    {
+      "id": "LOG-324433",
+      "timestamp": "2026-11-01T14:08:52.443Z",
+      "leadId": "LEAD-8010",
+      "action": "APPROVAL_TRIGGERED",
+      "level": "WARNING",
+      "message": "Human Manager Approval gate triggered for Mysuru Aero Dynamics (Approval ID: APP-104). Enqueued in FIFO position.",
+      "metadata": {
+        "approvalId": "APP-104",
+        "rule": "RULE-ENT-01"
+      }
+    },
+    {
+      "id": "LOG-32443R",
+      "timestamp": "2026-11-01T14:08:52.443Z",
+      "leadId": "LEAD-8010",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Region check evaluated for 'Mysuru, Karnataka': Serviceable. Location 'Mysuru, Karnataka' is within supported service area (Karnataka).",
+      "metadata": {
+        "city": "Mysuru, Karnataka",
+        "regionStatus": "Serviceable",
+        "supportedRegions": [
+          "Karnataka"
+        ]
+      }
+    },
+    {
+      "id": "LOG-7701",
+      "timestamp": "2026-10-29T10:00:00.000Z",
+      "leadId": "LEAD-8041",
+      "action": "ENQUIRY_RECEIVED",
+      "level": "INFO",
+      "message": "Inbound enterprise enquiry submitted by Victoria Sterling (Apex Cloud Networks) in city: Mysuru.",
+      "metadata": {
+        "source": "Web Intake API",
+        "city": "Mysuru",
+        "regionStatus": "Serviceable"
+      }
+    },
+    {
+      "id": "LOG-7702",
+      "timestamp": "2026-10-29T10:00:00.200Z",
+      "leadId": "LEAD-8041",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "SUCCESS",
+      "message": "Region evaluation passed: Mysuru is verified as an active serviceable region.",
+      "metadata": {
+        "city": "Mysuru",
+        "status": "Serviceable"
+      }
+    },
+    {
+      "id": "LOG-7703",
+      "timestamp": "2026-10-30T08:00:00.000Z",
+      "leadId": "LEAD-OUTSIDE-01",
+      "action": "REGION_CHECK_EVALUATED",
+      "level": "WARNING",
+      "message": "Region check evaluated: Bengaluru is outside currently supported service area (Mysuru). Disqualified from approval queue.",
+      "metadata": {
+        "city": "Bengaluru",
+        "status": "Outside Service Area"
+      }
+    }
+  ],
+  "checkpoints": {
+    "LEAD-8041": {
+      "checkpointId": "CHK-8041",
+      "leadId": "LEAD-8041",
+      "step": "CRM_SYNCED",
+      "savedAt": "2026-10-27T10:00:00.000Z",
+      "stateSnapshot": {
+        "leadId": "LEAD-8041",
+        "status": "Assigned",
+        "score": 95
+      }
+    }
+  },
+  "supportedRegions": [
+    "Karnataka",
+    "Maharashtra"
+  ],
+  "notifications": [
+    {
+      "id": "NOTIF-SMS-135160-514",
+      "customerId": "LEAD-FIFO-B",
+      "leadId": "LEAD-FIFO-B",
+      "projectReference": "Project Beta Systems (LEAD-FIFO-B)",
+      "customerName": "Bhavna Sharma",
+      "recipientEmail": "bhavna@betasystems.in",
+      "recipientPhone": "9876598765",
+      "notificationType": "SMS",
+      "decisionStatus": "Approved",
+      "subject": "Approved SMS Alert",
+      "message": "LeadPilot AI: Project LEAD-FIFO-B (Project Beta Systems) for Bhavna Sharma has been APPROVED on Nov 1, 2026, 02:08 PM. Note: Requirements verified and the project meets all eligibility criteria.. Please check your registered email (bhavna@betasystems.in) for complete details and next steps.",
+      "deliveryStatus": "Sent",
+      "timestamp": "2026-11-01T14:08:55.159Z",
+      "providerResponse": "Mock Twilio SMS gateway: SM_mock_delivery_confirmed",
+      "idempotencyKey": "notif-APP-FIFO-02-approve-sms"
+    },
+    {
+      "id": "NOTIF-EML-135160-18",
+      "customerId": "LEAD-FIFO-B",
+      "leadId": "LEAD-FIFO-B",
+      "projectReference": "Project Beta Systems (LEAD-FIFO-B)",
+      "customerName": "Bhavna Sharma",
+      "recipientEmail": "bhavna@betasystems.in",
+      "recipientPhone": "9876598765",
+      "notificationType": "Email",
+      "decisionStatus": "Approved",
+      "subject": "Project Approved: Project Beta Systems (Ref: LEAD-FIFO-B)",
+      "message": "Dear Bhavna Sharma,\n\nWe are pleased to inform you that your project enquiry for Project Beta Systems (Reference ID: LEAD-FIFO-B) has been officially APPROVED.\n\nApproval Details:\n- Customer Name: Bhavna Sharma\n- Project / Order Name: Project Beta Systems\n- Reference ID: LEAD-FIFO-B\n- Approval Status: APPROVED\n- Approval Date & Time: Nov 1, 2026, 02:08 PM\n- Confirmation: Project approved for enterprise delivery and routing\n- Manager Approval Note: Requirements verified and the project meets all eligibility criteria.\n\nNext Steps & Delivery Information:\nYour designated account executive (Marcus Vance) will reach out to you within one business day for technical onboarding and delivery scheduling.\n\nThank you for choosing LeadPilot AI.\n\nBest regards,\nLeadPilot AI Operations Management",
+      "deliveryStatus": "Sent",
+      "timestamp": "2026-11-01T14:08:55.159Z",
+      "providerResponse": "Mock SMTP transport: 250 2.0.0 OK queued for delivery",
+      "idempotencyKey": "notif-APP-FIFO-02-approve-email"
+    },
+    {
+      "id": "NOTIF-SMS-135149-849",
+      "customerId": "LEAD-FIFO-A",
+      "leadId": "LEAD-FIFO-A",
+      "projectReference": "Project Alpha Tech (LEAD-FIFO-A)",
+      "customerName": "Anil Kumar",
+      "recipientEmail": "anil@alphatech.in",
+      "recipientPhone": "9845098450",
+      "notificationType": "SMS",
+      "decisionStatus": "Rejected",
+      "subject": "Rejected SMS Alert",
+      "message": "LeadPilot AI: Project LEAD-FIFO-A (Project Alpha Tech) for Anil Kumar was REJECTED. Reason: Deal budget does not meet our minimum enterprise threshold for custom deployment.. Please check your registered email (anil@alphatech.in) for full details and resubmission guidance.",
+      "deliveryStatus": "Sent",
+      "timestamp": "2026-11-01T14:08:55.149Z",
+      "providerResponse": "Mock Twilio SMS gateway: SM_mock_delivery_confirmed",
+      "idempotencyKey": "notif-APP-FIFO-01-reject-sms"
+    },
+    {
+      "id": "NOTIF-EML-135149-843",
+      "customerId": "LEAD-FIFO-A",
+      "leadId": "LEAD-FIFO-A",
+      "projectReference": "Project Alpha Tech (LEAD-FIFO-A)",
+      "customerName": "Anil Kumar",
+      "recipientEmail": "anil@alphatech.in",
+      "recipientPhone": "9845098450",
+      "notificationType": "Email",
+      "decisionStatus": "Rejected",
+      "subject": "Project Update: Project Alpha Tech (Ref: LEAD-FIFO-A)",
+      "message": "Dear Anil Kumar,\n\nThank you for your interest in LeadPilot AI. We have completed the executive review of your project enquiry for Project Alpha Tech (Reference ID: LEAD-FIFO-A).\n\nDecision Details:\n- Customer Name: Anil Kumar\n- Project / Order Name: Project Alpha Tech\n- Reference ID: LEAD-FIFO-A\n- Rejection Status: REJECTED\n- Rejection Date & Time: Nov 1, 2026, 02:08 PM\n- Specific Rejection Reason: Deal budget does not meet our minimum enterprise threshold for custom deployment.\n\nGuidance & Resubmission:\nIf you would like to discuss alternative solutions or submit an amended project proposal, please contact our enterprise solutions desk at support@leadpilot.ai.\n\nBest regards,\nLeadPilot AI Operations Management",
+      "deliveryStatus": "Sent",
+      "timestamp": "2026-11-01T14:08:55.149Z",
+      "providerResponse": "Mock SMTP transport: 250 2.0.0 OK queued for delivery",
+      "idempotencyKey": "notif-APP-FIFO-01-reject-email"
+    }
+  ]
+}
